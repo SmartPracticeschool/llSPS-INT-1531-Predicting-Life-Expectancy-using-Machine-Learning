@@ -7,7 +7,7 @@ Predicting Life Expectancy using Machine Learning
 
 **To create Watson Studio Service**
 
-1.  Select Catalog -> Search Watson Studio in search bar
+1.Select Catalog -> Search Watson Studio in search bar
 
 2.Click on Get started -> Create project and add cloud object storage
  
