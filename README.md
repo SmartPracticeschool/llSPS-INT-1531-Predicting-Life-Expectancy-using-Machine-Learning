@@ -23,29 +23,27 @@ Predicting Life Expectancy using Machine Learning
 
 4.Select Node-Red Application 
  
-5.Keep all the values to default and continue the App development.
+5.Keep all the values to default and continue with the App development.
 
-6.Once you select on click Create app and then proceed to click on Deploy App.
+6.Once you select on click ***Create app*** , then proceed to click on ***Deploy App***.
 
-7.After deployment wait for the status turn into Success.
+7.After deployment wait for the status to turn into ***Success***.
   
+8.App URL will appear after successful deployment .Click on the App URL 
 
-8.App URL will appear after successful deployment . Click on the App URL 
-
-•	Add connections to the associated services clicking Connections -> Add Connections.
+•	Add connections to the associated services clicking Connections -> Add Connections to Machine Learning Service and cloud object storage.
 
 •	Click on Visit App URL in the Overview page.
 
-•	Setup the Node RED editor.
+•	Setup the ***Node-RED editor***.
  
- 
-9.Continue clicking on Next and click on Finish at the end to launch the Node RED editor.
+9.Continue clicking on Next and click on Finish at the end to launch the Node-RED editor.
   
 10.Click on Node-RED flow editor.
 
 11.Flow for the App is created by taking the necessary nodes.
 
-12.Install “node-red-dashboard” from Manage Palette.
+12.Install _"node-red-dashboard”_ from Manage Palette.
  
  
  The Dashboard will show predicted Life Expectancy from the given Input.
