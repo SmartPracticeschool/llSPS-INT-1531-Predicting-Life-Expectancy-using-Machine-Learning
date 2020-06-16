@@ -43,7 +43,7 @@ Predicting Life Expectancy using Machine Learning
 
 11.Flow for the App is created by taking the necessary nodes.
 
-12.Install _"node-red-dashboard”_ from Manage Palette.
+12.Install _"node-red-dashboard”_ from Manage Palette and import flow.
  
  
  The Dashboard will show predicted Life Expectancy from the given Input.
